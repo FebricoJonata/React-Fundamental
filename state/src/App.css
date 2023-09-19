@@ -1,0 +1,17 @@
+.App{
+  display: flex;
+  align-items: center;
+  margin: 15px;
+}
+
+.App button{
+  margin: 0 5px 0 0;
+}
+
+.App p{
+  margin: 0 7px 0 7px;
+}
+
+.Reset{
+  margin: 0 25px;
+}
